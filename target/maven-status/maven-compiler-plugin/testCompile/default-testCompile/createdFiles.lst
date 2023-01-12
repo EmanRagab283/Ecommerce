@@ -1,0 +1,11 @@
+org\example\pages\homePage.class
+org\example\stepDefinition\currencyStepDef.class
+org\example\pages\registrationPage.class
+org\example\stepDefinition\seachStepDef.class
+org\example\pages\loginPage.class
+org\example\stepDefinition\hook.class
+org\example\stepDefinition\categoryStepDef.class
+org\example\stepDefinition\registStepDefinition.class
+org\example\pages\categoiesPage.class
+org\example\stepDefinition\loginStepsDefinition.class
+org\example\testRunners\runner.class
