@@ -6,8 +6,8 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 //feature and stepdefinition  place
 @CucumberOptions(
-        features = "src\\main\\resources",
-        glue = {"org/example"},
+        features = "src/main/resources/features",
+        glue = {"org/example/stepDefinition"},
         plugin = {"pretty","html:target/cucumber.html",
                 "json:target/cucmber.json","junit:target/cukes.xml",
                 "return:target/return.txt"}
